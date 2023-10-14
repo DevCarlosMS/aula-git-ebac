@@ -1,12 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Carlos
+-Profissão: Atendente, futuro Engenheiro de Qualidade de Software
+-Cidade: Contagem, Minas Gerais
+-O que faz nas horas vaga: Leio livros, desenho e me divirto com os amigos
+
+-Feedback sobre o curso Qualidade de Software: Até o momento o curso está cumprindo com as expectativas, estou aprendendo com as aulas, os professores passam um ótimo feedback e os alunos ajudam muito através do Discord.
+Estou gostando muito dessa parte mais técnica que começou nos últimos módulos.
+
+-Feedback sobre a plataforma de estudo da EBAC: Após a recente atualização estou bem satisfeito com a plataforma, não tive nenhum problema até o momento.
 
 Obrigado!!!
-
-
